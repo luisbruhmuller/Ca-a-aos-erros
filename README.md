@@ -14,4 +14,4 @@ Você deverá descobrir os problemas sem receber previamente a localização dos
 Codigo 1:
 erro 1:ponto e virgula faltando na linha 11
 erro 2:ponto e virgula linha 58
-
+erro 3:ponto e birgula na linha 68
