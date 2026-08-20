@@ -132,6 +132,9 @@ $resultado = $conn->query($sql);
                     <a href="index.php?excluir=<?= $usuario['id'] ?>">
                         Excluir
                     </a>
+                    <a href="index.php?editar=<?= $usuario['id'] ?>">
+                        Editar
+                    </a>
 
                 </td>
 
