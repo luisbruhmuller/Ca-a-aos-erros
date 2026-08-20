@@ -1,6 +1,6 @@
-CREATE DATABASE crud_aula;
+CREATE DATABASE 7erros;
 
-USE crud_aula;
+USE 7erros;
 
 CREATE TABLE usuarios (
     id INT AUTO_INCREMENT PRIMARY KEY,
