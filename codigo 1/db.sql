@@ -1,0 +1,9 @@
+CREATE DATABASE 7erros;
+
+USE 7erros;
+
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    email VARCHAR(150) NOT NULL
+);
